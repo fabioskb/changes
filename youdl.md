@@ -1,6 +1,13 @@
 # YouTube Downloader
 # Changelogs
 
+## v2.0.0 (2022/02/09)
+* Added GUI interface
+* Built in Java
+* Removed Windows support (for now)
+* Added night mode
+* Removed running by terminal
+
 ## v1.0 (2021/11/16)
 * Languages: Portuguese and English;
 * Compatible with Windows and Linux;
