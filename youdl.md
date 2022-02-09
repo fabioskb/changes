@@ -2,6 +2,7 @@
 # Changelogs
 
 ## v2.0.0 (2022/02/09)
+* Architecture amd64
 * Added GUI interface
 * Built in Java
 * Removed Windows support (for now)
