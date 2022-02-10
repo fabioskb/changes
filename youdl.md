@@ -1,6 +1,9 @@
 # YouTube Downloader
 # Changelogs
 
+## v2.0.1 (2022/02/10)
+* Fixed some bugs
+
 ## v2.0.0 (2022/02/09)
 * Architecture amd64
 * Added GUI interface
