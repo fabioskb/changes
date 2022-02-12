@@ -2,6 +2,12 @@
 # Changelogs
 
 ## v2.0.2 (2022/02/12)
+* Removed the WebDriverManager library (for a decrease in application size).
+* New installation method (via wget).
+* Fixed minor bugs.
+* Clean source code
+* Built in pure Java
+* Update the README.md
 
 ## v2.0.1 (2022/02/10)
 * Fixed some bugs

@@ -1,2 +1,2 @@
 # changes
-changelogs
+Project changelogs 
