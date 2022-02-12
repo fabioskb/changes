@@ -30,5 +30,5 @@
 * Options to choose between downloading video (mp4) or audio (mp3);
 * Options to choose video/audio resolution or quality to download.
 * Convert .mp4 to .mp3 (if possible) after downloading, if audio is chosen;
-* Save the file in the default download directory~~;
+* Save the file in the default download directory;
 * Color theme selection.
