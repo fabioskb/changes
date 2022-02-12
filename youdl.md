@@ -1,6 +1,8 @@
 # YouTube Downloader
 # Changelogs
 
+## v2.0.2 (2022/02/12)
+
 ## v2.0.1 (2022/02/10)
 * Fixed some bugs
 
@@ -12,7 +14,7 @@
 * Added night mode
 * Removed running by terminal
 
-## v1.0 (2021/11/16)
+## v1.0 (2021/11/16) (Deprecated)
 * Languages: Portuguese and English;
 * Compatible with Windows and Linux;
 * Runs in background via terminal;
@@ -22,5 +24,5 @@
 * Options to choose between downloading video (mp4) or audio (mp3);
 * Options to choose video/audio resolution or quality to download.
 * Convert .mp4 to .mp3 (if possible) after downloading, if audio is chosen;
-* Save the file in the default download directory;
+* Save the file in the default download directory~~;
 * Color theme selection.
