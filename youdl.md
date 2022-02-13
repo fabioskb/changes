@@ -1,6 +1,10 @@
 # YouTube Downloader
 # Changelogs
 
+## v2.0.3
+* added description in README.md
+* Fixed minor bugs in JOptionPane
+
 ## v2.0.2 (2022/02/12)
 * Removed the WebDriverManager library (for a decrease in application size).
 * New installation method (via wget).
