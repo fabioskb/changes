@@ -1,7 +1,7 @@
 # YouTube Downloader
 # Changelogs
 
-## v2.0.3
+## v2.0.3 (2022/02/13)
 * added description in README.md
 * Fixed minor bugs in JOptionPane
 
