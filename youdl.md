@@ -1,6 +1,12 @@
 # YouTube Downloader
 # Changelogs
 
+## v2.0.1 (2022/02/16)
+* Clean code
+* Added description in the ToolTip of the search results list when selecting an item in the list with the mouse.
+* Added deselect an item (if selected) in the search list.
+* Added Night Mode automatically activated if current system time is between 18:00 and 5:00.
+
 ## v2.0.3 (2022/02/13)
 * added description in README.md
 * Fixed minor bugs in JOptionPane
