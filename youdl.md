@@ -1,6 +1,9 @@
 # YouTube Downloader
 # Changelogs
 
+## v2.1.1
+* Fixed no audio in videos.
+
 ## v2.1.0 (2022/02/16)
 * Clean code
 * Added description in the ToolTip of the search results list when selecting an item in the list with the mouse (channel, duration, views and publish_time).
