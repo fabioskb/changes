@@ -1,7 +1,7 @@
 # YouTube Downloader
 # Changelogs
 
-## v2.1.2 (2022/02/10)
+## v2.1.2 (2022/02/19)
 * Fixed some bugs
 
 ## v2.1.1 (2022/02/17)
