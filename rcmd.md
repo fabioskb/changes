@@ -2,7 +2,7 @@
 
 ## v0.1.0-beta (28/03/2022)
 * Added GUI Interface
-* Chnaged icon
+* Changed icon
 * Removed Unit Time argument
 
 ## v0.0.3-beta (23/03/2022)
