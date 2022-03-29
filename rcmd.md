@@ -1,5 +1,10 @@
 # Remote Shell Changelogs
 
+## v0.1.0-beta (28/03/2022)
+* Added GUI Interface
+* Chnaged icon
+* Removed Unit Time argument
+
 ## v0.0.3-beta (23/03/2022)
 * General improvements in execution.
 * Mandatory parameters removed.
