@@ -1,5 +1,8 @@
 # Remote Shell Changelogs
 
+## v0.1.1 (31/03/2022)
+* Added all TollTip
+
 ## v0.1.0-beta (28/03/2022)
 * Added GUI Interface
 * Changed icon
