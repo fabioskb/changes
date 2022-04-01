@@ -1,5 +1,9 @@
 # Remote Shell Changelogs
 
+## v0.1.2 (01/04/2022)
+* Added waittime file to .cmd repo
+* Fixed some bugs
+
 ## v0.1.1 (31/03/2022)
 * Added all TollTip
 
