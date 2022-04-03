@@ -1,5 +1,8 @@
 # Remote Shell Changelogs
 
+## v0.1.3 (02/04/2022)
+* Fixed set
+
 ## v0.1.2 (01/04/2022)
 * Added waittime file to .cmd repo
 * Fixed some bugs
