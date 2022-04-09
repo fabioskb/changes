@@ -1,5 +1,8 @@
 # Remote Shell Changelogs
 
+## v0.1.4 (06/04/2022)
+* Changed icon
+
 ## v0.1.3 (02/04/2022)
 * Fixed set
 
