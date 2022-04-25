@@ -1,6 +1,19 @@
 # YouTube Downloader
 # Changelogs
 
+## v2.3.0 (2022/04/25)
+* Code improvements
+* Added cancel button on download in progress.Added cancel button on download in progress.
+* Added download progress bar with internet speed and file size.
+* Changed some class on code.
+* Added side menu bar with some items.
+* Changed the position of some panels.
+* Removed info icon.
+* Added Tutorial on menu.
+* added About on menu.
+* Fixed some bugs.
+* And more.
+
 ## v2.2.0 (2022/02/22)
 * Added download progress.
 * Updated background of text areas.
