@@ -1,6 +1,15 @@
 # YouTube Downloader
 # Changelogs
 
+## v2.3.1 (2022/04/28)
+* Changed colors on JOptionPane.
+* Changed background colors for some panels.
+* Removed background from results.
+* Added confirmation dialog when exiting with download in progress.
+* Added custom text on JOptionPane button.
+* Changed and Added screenshots.
+* Fixed minnor bugs.
+
 ## v2.3.0 (2022/04/25)
 * Code improvements
 * Added cancel button on download in progress.Added cancel button on download in progress.
