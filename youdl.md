@@ -1,6 +1,18 @@
 # YouTube Downloader
 # Changelogs
 
+## v2.4.0 ()
+* Added multiple downloads.
+* Added enumeration in list.
+* Added item title on progress bar.
+* Added Getting the title text on label results.
+* Added title in progress bar.
+* Added download folder audios and videos.
+* Enabled button focus.
+* Icon and text of the night button is changed according to its activation.
+* Clean code.
+* Fixed some bugs.
+
 ## v2.3.1 (2022/04/28)
 * Changed colors on JOptionPane.
 * Changed background colors for some panels.
