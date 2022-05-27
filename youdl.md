@@ -1,13 +1,18 @@
 # YouTube Downloader
 # Changelogs
 
-## v2.4.0 ()
+## v2.4.0 (2022/05/27)
 * Added multiple downloads.
 * Added enumeration in list.
 * Added item title on progress bar.
 * Added Getting the title text on label results.
 * Added title in progress bar.
 * Added download folder audios and videos.
+* Added option to run background downloads when exiting the app.
+* Added cancel process button.
+* Changed resolution from app to 1000x700.
+* Changed selection colors.
+* Changed icons theme button.
 * Enabled button focus.
 * Icon and text of the night button is changed according to its activation.
 * Clean code.
