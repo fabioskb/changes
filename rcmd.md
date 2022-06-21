@@ -1,5 +1,12 @@
 # Remote Shell Changelogs
 
+## v0.1.6 (21/06/2022)
+* Fixed some bugs
+* Remove start button while command running
+
+## v0.1.5 (21/06/2022)
+* Fixed some bugs
+
 ## v0.1.4 (08/04/2022)
 * Changed icon
 
