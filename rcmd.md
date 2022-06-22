@@ -1,5 +1,8 @@
 # Remote Shell Changelogs
 
+# v0.1.7 (21/06/2022)
+* Fixed closing app when stop button
+
 ## v0.1.6 (21/06/2022)
 * Fixed some bugs
 * Remove start button while command running
