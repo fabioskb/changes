@@ -1,6 +1,21 @@
 # YouTube Downloader
 # Changelogs
 
+## v2.5.0 (2022/07/22)
+* Added Map<k, v> pegarCor() method.
+* Added brightness to the result label colors.
+* Added title+ext to download done info in the result labels.
+* Added Resolution choice menu.
+* Changed downloads progressBar foreground colors.
+* Changed resolution.
+* Changed light mode icon.
+* Changed some background colors in dark mode.
+* Changed some text labels and progressBars.
+* Changed the method of the click event of text fields.
+* Description moved to "About" menu item.
+* Fixed some bugs.
+* Clean code.
+
 ## v2.4.0 (2022/05/27)
 * Added multiple downloads.
 * Added enumeration in list.
